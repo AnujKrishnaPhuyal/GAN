@@ -1,0 +1,4 @@
+BasicGAN/data
+BasicGAN/logs
+DCGAN/logs
+DCGAN/checkpoint_epoch_80.pth
